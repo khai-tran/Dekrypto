@@ -1,5 +1,5 @@
 # Dekrypto 
-A script to perform padding oracle attack against IBM Websphere Commerce (CVE-2013-05230) - written by Khai Tran [https://twitter.com/ktranfosec](https://twitter.com/ktranfosec "@ktranfosec")
+A script to perform padding oracle attack against IBM Websphere Commerce (CVE-2013-05230) - written by Khai Tran [https://twitter.com/k_tr4n](https://twitter.com/k_tr4n "@k_tr4n")
 
 ### External libraries used:
 - Ron Bowes' poracle framework: https://github.com/iagox86/poracle
